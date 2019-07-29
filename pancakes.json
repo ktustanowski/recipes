@@ -7,25 +7,3 @@
     "people": 3,
     "difficulty": "easy"
 }
-
-
-public struct Recipe: Equatable {
-    /// URL to author site
-    public let authorName: String
-    /// URL to author site
-    public let author: URL
-    /// URL to original recipe - if available
-    public let originalSource: URL?
-    /// Images of a recipe, cooking process etc.
-    public let images: [URL]
-    /// The unparsed recipe
-    public let rawAlgorithm: String
-    /// How long does it take from start to finish
-    public let time: TimeInterval?
-    /// How many people can eat the meal
-    public let people: Int?
-    /// How hard is to cook thie recipe
-    public let difficulty: Difficulty
-    /// Fill when this is a traditional meal of some country
-    public let country: String?
-}
