@@ -4,6 +4,12 @@
             "name": "Pancakes",
             "source": "https://raw.githubusercontent.com/ktustanowski/recipes/master/pancakes.json",
             "image": "https://cdn.pixabay.com/photo/2016/10/27/22/07/pancake-1776646_1280.jpg"
+        },
+        {
+            "name": "Pancakes",
+            "source": "https://raw.githubusercontent.com/ktustanowski/recipes/master/pancakes-debug.json",
+            "image": "https://cdn.pixabay.com/photo/2016/10/27/22/07/pancake-1776646_1280.jpg"
         }
+
     ]
 }
