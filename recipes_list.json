@@ -11,11 +11,6 @@
             "imageURL": "https://cdn.pixabay.com/photo/2016/10/27/22/07/pancake-1776646_1280.jpg"
         },
         {
-            "name": "Test recipe",
-            "sourceURL": "https://raw.githubusercontent.com/ktustanowski/recipes/master/test-recipe.json",
-            "imageURL": "https://images.unsplash.com/photo-1563690449029-d6e1b8d6003d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1346&q=80"
-        },
-        {
             "name": "Tzatziki sauce",
             "sourceURL": "https://raw.githubusercontent.com/ktustanowski/recipes/master/tzatziki.json",
             "imageURL": "https://raw.githubusercontent.com/ktustanowski/recipes/master/tzatziki.jpg"
