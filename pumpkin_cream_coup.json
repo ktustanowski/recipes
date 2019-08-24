@@ -1,0 +1,8 @@
+{
+    "name": "Pumpkin cream soup",
+    "authorName": "Kamil Tustanowski",
+    "rawAlgorithm": "Peel the [800 g pumpkin]\nRemove seeds from the [800 g pumpkin]\nCut the pulp into cubes\nPeel the [250 g potatoes]\nCut [250 g potatoes] into cubes\nDice [1 onion]\nPeel [2 garlic cloves]\nSlice [2 garlic cloves]\nMelt [25 g butter] in a {large pot}\nAdd diced onlion and sliced garlic into a {large pot} and fry\nAdd pumpkin and potatoes into the {large pot}\nSeason with salt\nAdd [1 teaspoon turmeric powder] into the {large pot}\nAdd [1 teaspoon of fresh grated ginger] into the {large pot}\nFry stirring every now and then in a {large pot} <300>\nPour [1.5 cup of hot broth] into the {large pot}\nCover {large pot} and boil\nReduce heat to medium and cook in a {large pot} <600>\nAdd [0.5 can of chopped tomatoes] into the {large pot}\nMix\nCook until the vegetables are tender <300>\nPour [1 glass of milk] into {blender}\nPour the cooked soup into the {blender}\nBlend",
+    "time": 2700.0,
+    "people": 4,
+    "difficulty": "medium"
+}

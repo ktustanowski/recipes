@@ -1,13 +1,12 @@
 {
     "recipes": [ 
         {
-            "name": "Pancakes",
-            "sourceURL": "https://raw.githubusercontent.com/ktustanowski/recipes/master/pancakes.json",
-            "imageURL": "https://cdn.pixabay.com/photo/2016/10/27/22/07/pancake-1776646_1280.jpg"
+            "name": "Pumpkin cream soup",
+            "sourceURL": "https://raw.githubusercontent.com/ktustanowski/recipes/master/pumpkin_cream_soup.json"
         },
         {
-            "name": "Pancakes Debug And Quite A Long Name To Test How It Actually Behaves",
-            "sourceURL": "https://raw.githubusercontent.com/ktustanowski/recipes/master/pancakes-debug.json",
+            "name": "Pancakes",
+            "sourceURL": "https://raw.githubusercontent.com/ktustanowski/recipes/master/pancakes.json",
             "imageURL": "https://cdn.pixabay.com/photo/2016/10/27/22/07/pancake-1776646_1280.jpg"
         },
         {
