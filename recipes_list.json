@@ -2,7 +2,8 @@
     "recipes": [ 
         {
             "name": "Pumpkin cream soup",
-            "sourceURL": "https://raw.githubusercontent.com/ktustanowski/recipes/master/pumpkin_cream_soup.json"
+            "sourceURL": "https://raw.githubusercontent.com/ktustanowski/recipes/master/pumpkin_cream_soup.json",
+            "imageURL": "https://raw.githubusercontent.com/ktustanowski/recipes/master/pumpkin_cream_soup.jpg"
         },
         {
             "name": "Pancakes",
