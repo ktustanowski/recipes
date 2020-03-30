@@ -2,7 +2,7 @@
     "name": "Pancakes",
     "authorName": "Kamil Tustanowski",
     "authorURL": "https://www.linkedin.com/in/kamil-tustanowski-41498555",
-    "imagesURL": ["https://raw.githubusercontent.com/ktustanowski/recipes/master/pancakes.jpg"],
+    "imagesURL": ["https://raw.githubusercontent.com/ktustanowski/recipes/master/pancakes.jpeg"],
     "rawAlgorithm": ":: version 0.1\nPrepare {blender}\nAdd [1.25 glass of flour] to the {blender}\nAdd [1.25 glass of buttermilk] to the {blender}\nAdd [1.0 egg] to the {blender}\nAdd [0.25 glass of powdered sugar] to the {blender}\nPour [0.25 glass of olive oil] to the {blender}\nAdd [1.0 heaping teaspoon of baking powder] to the {blender}\nAdd [1.0 teaspoon of baking soda] to the {blender}\nAdd [1.0 pinch of salt] to the {blender}\nBlend everything in a {blender} to a smooth mass with the consistency of thick cream\nPreheat the {frying pan}\nFry pancakes on both sides in a {frying pan} over medium heat",
     "time": 1800,
     "people": 3,
