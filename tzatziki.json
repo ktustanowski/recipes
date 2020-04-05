@@ -1,7 +1,7 @@
 {
     "name": "Tzatziki sauce",
     "authorName": "Kamil Tustanowski",
-    "imagesURL": ["https://raw.githubusercontent.com/ktustanowski/recipes/master/tzatziki.jpg"],
+    "imagesURL": ["https://raw.githubusercontent.com/ktustanowski/recipes/master/tzatziki.jpeg"],
     "rawAlgorithm": "Grate [1.0 cucumber] on a {grater}\nAdd [200 ml of natural yogurt]\nAdd [2.0 or more tablespoons of dry tzatziki sauce]\nMix together\nStore in a glass jar in the fridge",
     "time": 600.0,
     "people": 5,
