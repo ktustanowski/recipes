@@ -19,6 +19,11 @@
             "name": "Sunflower Pesto",
             "sourceURL": "https://raw.githubusercontent.com/ktustanowski/recipes/master/sunflower_pesto.json",
             "imageURL": "https://raw.githubusercontent.com/ktustanowski/recipes/master/sunflower_pesto.jpg"
+        },
+        {
+            "name": "Żurek",
+            "sourceURL": "https://raw.githubusercontent.com/ktustanowski/recipes/master/sour_rye_soup.json",
+            "imageURL": "https://raw.githubusercontent.com/ktustanowski/recipes/master/sour_rye_soup.jpeg"
         }
     ]
 }

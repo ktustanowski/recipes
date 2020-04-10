@@ -1,0 +1,10 @@
+{
+    "name": "Żurek",
+    "authorName": "Kamil Tustanowski",
+    "imagesURL": ["https://raw.githubusercontent.com/ktustanowski/recipes/master/sour_rye_soup.jpeg"],
+    "rawAlgorithm": "Wlej [1.5 litra bulionu] do {garnek}\n\nDodaj [400 g wedzonego boczku] do bulionu w {garnek}\nGotuj na wolnym ogniu <1200>\nDodaj [400 g surowej bialej kielbasy] do {garnek}\nGotuj na wolnym ogniu <1200>\nDodaj [500 ml zurku (zakwasu)] do {garnek}\nWeź [1 zabek czosnku] i, nieobrany zabek, wrzuc na {patelnia}\nPraz czosnek na {patelnia} <600>\nDelikatnie rozgniec uprazony czosnek\nGotuj na wolnym ogniu, a w trakcie podaj przygotowany czosnek oraz [2 lyzki suszonego majeranku] <600>\nOdstaw zupe z ognia\nDodaj [6 lyzek smietany 18 procent]\nDopraw sola i pieprzem\nWyjmij kielbase z zupy\nPokroj kielbase na plasterki\nWloz spowrotem do garnka z zupa\nPodawaj z ugotowanym jajkiem i pieczywem",
+    "time": 4800.0,
+    "people": 4,
+    "difficulty": "medium"
+}
+    
