@@ -24,6 +24,11 @@
             "name": "Żurek",
             "sourceURL": "https://raw.githubusercontent.com/ktustanowski/recipes/master/sour_rye_soup.json",
             "imageURL": "https://raw.githubusercontent.com/ktustanowski/recipes/master/sour_rye_soup.jpeg"
+        },
+        {
+            "name": "Bigos z młodej kapusty",
+            "sourceURL": "https://raw.githubusercontent.com/ktustanowski/recipes/master/hunters_stew_from_young_cabbage.json",
+            "imageURL": "https://raw.githubusercontent.com/ktustanowski/recipes/master/hunters_stew_from_young_cabbage.jpeg"
         }
     ]
 }
